@@ -24,7 +24,7 @@
 4. [C/C++ Development](https://github.com/mikeroyal/DirectX-Guide#cc-development)
 
 
-# DirectX  Learning Resources
+# DirectX Learning Resources
 [Back to the Top](https://github.com/mikeroyal/DirectX-Guide#table-of-contents)
 
 [Microsoft DirectX®](https://support.microsoft.com/en-us/topic/how-to-install-the-latest-version-of-directx-d1f5ffa5-dae2-246c-91b1-ee1e973ed8c2) is a low-level API that handles tasks related to multimedia for game programming and video on Microsoft platforms(Windows & Xbox).
