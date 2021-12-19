@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/129622295-1bd0e123-57bb-4460-baab-8dbc8818052a.png">
+ <img src="https://user-images.githubusercontent.com/45159366/146692542-cc8ed49f-8ba9-489e-88d0-c7c79b73b379.png">
   <br />
   DirectX Guide
 </h1>
